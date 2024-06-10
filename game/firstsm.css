@@ -1,0 +1,472 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: blanchedalmond;
+    
+}
+
+.container{
+    position: relative;
+    width: 100%;
+}
+
+#blur.active
+{
+    filter:blur(20px);
+}
+
+#vss{
+    height: 60%;
+    width: 20%;
+    margin-top: 0;
+    margin-left: 10%;
+    border-radius: 50px;
+}
+
+
+.divva{
+    height: 25px;
+    width: 210px;
+    overflow-y: auto;
+    margin-left: 35%;
+    margin-top: 25px;
+    /*margin-top: -44%;*/
+    display: flex;
+    justify-content: flex-start;
+    border: 2px solid burlywood;
+    scrollbar-width: none;
+}
+
+.divva::-webkit-scrollbar{
+    width: 0;
+    background:transparent;
+
+}
+
+.divva::-webkit-scrollbar-thumb{
+    display: none;
+}
+
+
+.btn2{
+    border: none;
+    background-color: burlywood;
+
+}
+
+
+.btn3{
+    border: none;
+    background-color: burlywood;
+
+}
+
+.btn4{
+    border: none;
+    background-color: burlywood;
+
+}
+
+.btn5{
+    border: none;
+    background-color: burlywood;
+
+}
+
+.btn6{
+    border: none;
+    background-color: burlywood;
+
+}
+
+.btn7{
+    border: none;
+    background-color: burlywood;
+
+}
+
+.btn8{
+    border: none;
+    background-color: burlywood;
+
+}
+
+.btn9{
+    border: none;
+    background-color: burlywood;
+
+}
+
+.btn10{
+    border: none;
+    background-color: burlywood;
+
+}
+
+.btn11{
+    border: none;
+    background-color: burlywood;
+
+}
+
+.btn12{
+    border: none;
+    background-color: burlywood;
+
+}
+
+
+.btn13{
+    border: none;
+    background-color: burlywood;
+
+}
+
+.btn14{
+    border: none;
+    background-color: burlywood;
+
+}
+
+.btn15{
+    border: none;
+    background-color: burlywood;
+
+}
+
+.btn16{
+    border: none;
+    background-color: burlywood;
+
+}
+
+.btn17{
+    border: none;
+    background-color: burlywood;
+
+}
+
+.btn18{
+    border: none;
+    background-color: burlywood;
+
+}
+
+.btn19{
+    border: none;
+    background-color: burlywood;
+
+}
+
+.btn20{
+    border: none;
+    background-color: burlywood;
+
+}
+
+
+.btn21{
+    border: none;
+    background-color: burlywood;
+
+}
+
+.btn22{
+    border: none;
+    background-color: burlywood;
+
+}
+
+.btn23{
+    border: none;
+    background-color: burlywood;
+
+}
+
+.btn24{
+    border: none;
+    background-color: burlywood;
+
+}
+
+.btn25{
+    border: none;
+    background-color: burlywood;
+
+}
+
+.btn2:hover{
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+.btn3:hover{
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+.btn4:hover{
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+.btn5:hover{
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+
+.btn6:hover{
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+.btn7:hover{
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn8:hover{
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+.btn9:hover{
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+.btn10:hover{
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+
+.btn11:hover{
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+.btn12:hover{
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn13:hover{
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn14:hover{
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn15:hover{
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn16:hover{
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn17:hover{
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn18:hover{
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn19:hover{
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn20:hover{
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn21:hover{
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn22:hover{
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn23:hover{
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn24:hover{
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn25:hover{
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.a{
+    position: relative;
+    float: right;
+    color: black;
+    text-decoration: none;
+    
+    margin-top: -40px;
+    
+}
+
+#popup{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform:translate(-50%,-50%);
+    width: 700px;
+    box-shadow: 0 5px 30px rgba(0,0,0,30);
+    background:rgb(244, 227, 199);
+    visibility: hidden;
+    opacity: 0;
+    transition: 0.5s;
+}
+
+#popup.active
+{
+    visibility: visible;
+    opacity: 1;
+    transition: 0.5s;
+}
+
+
+ul{
+    height: 490px;
+    margin: 10px;
+    padding-right: 30px;
+    border: 2px solid black;
+    list-style-type: none;
+    overflow-y: auto;
+    scrollbar-width: none;
+}
+
+ul::-webkit-scrollbar{
+    display: none;
+}
+
+li{
+    height: 35px;
+    margin:8px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 20px;
+    border: 2px solid black;
+    font-size: large;
+    display: flex;
+    justify-content: first baseline;
+    align-content:center;
+
+    
+}
+
+.b{
+    position: relative;
+    display: inline-block;
+    color: black;
+    text-decoration: none;
+    
+    margin-top: -30px;
+    
+}
+
+.b:hover{
+    color: red;
+    
+}
+
+.brd{
+    margin-top: 80px;
+    margin-left: 50px;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow:  outset rgb(194, 182, 182);
+    height: 400px;
+    width: 550px;
+    background-color: rgb(15, 16, 45);
+}
+
+#paraa{
+    font-weight:bolder;
+    color:rgb(244, 229, 232);
+}
+
+#paraa:hover{
+    font-family: 'Courier New';
+    font-size: smaller;
+
+}

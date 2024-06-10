@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Password</title>
+    <link rel="stylesheet" href="psw.css">
+</head>
+<body>
+    <h1>❄ The password game</h1>
+    <label for="psw" id="lb">your password:</label>
+    <input type="text" placeholder="enter password..." id="psw"  onkeyup="return validation()">
+    <div class="rules">
+        <ul>
+            <li id="upper">Atleast one uppercase</li>
+            <li id="lower">password must contain atmost 3 lowercase</li>
+            <li id="special_char">Atleast one special symbol</li>
+            <li id="number">Atleast two numbers</li>
+            <li id="length">atleast 6 characters</li>
+
+        </ul>
+    </div>
+
+    <button>submit</button>
+    <script src="psw.js"></script>
+</body>
+</html>

@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+}
+
+#lb{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+#psw{
+    height: 20px;
+    width: 100px;
+    margin-top: 10px;
+    margin-left: 47%;
+       
+   }
+.rules{
+    margin-left: 35%;
+   display: flex;
+   justify-content: center;
+   text-align: center;
+   height: 120px;
+    width: 400px;
+   margin-top: 20px;
+   border: 2px solid;
+   border-radius: 20px;
+   background-color: blanchedalmond;
+    
+}
+
+ul{
+    list-style-type: none;
+}
+
+button{
+    background-color: aqua;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    margin-left: 45%;
+    margin-top: 10px;
+}
+

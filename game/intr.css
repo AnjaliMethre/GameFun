@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    background-image: url('Internet-Artifacts.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#btn{
+    height: 44px;
+    width: 166px;
+    padding:8px 14px;
+    cursor:pointer;
+    border:2px solid black;
+    
+    box-shadow: 2px 2px 2px 2px #fff,
+    4px 4px 4px 4px #000;
+    transition-duration: 200ms;
+    margin-left: 45%;
+    margin-top: 24.5%;
+}
+
+#btn:hover{
+    box-shadow: 3px 3px white,
+    6px 6px 6px 6px black;
+    border-radius: 2px;
+}
+
